@@ -59,6 +59,7 @@ html_theme_options = {
     },
 }
 
+html_baseurl = "https://shashikushwaha.github.io/nxopenkit-docs-site/"
 add_module_names = False
 autodoc_class_signature = "separated"
 autodoc_typehints = "signature"
